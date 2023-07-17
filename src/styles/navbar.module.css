@@ -1,0 +1,62 @@
+/* navbar.module.css */
+
+
+:root {
+  --primary-color: #2F0777;
+  --text-color: white; 
+  --secondary-color: #353333;
+}
+
+.navbar {
+  background-color: #2F0777;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link.active {
+  color: #fff;
+}
+
+.navbar-nav .nav-link.dropdown-toggle {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.dropdown-menu {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.dropdown-item {
+  transition: color 0.3s ease;
+}
+
+.navbar:hover {
+  background-color: var(--secondary-color);
+  
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--text-color);
+  text-decoration: underline; 
+}
+
+.navbar-nav .nav-link.active:hover {
+  color: #fff;
+}
+
+.navbar-nav .nav-link.dropdown-toggle:hover {
+  color: var(--text-color);
+}
+
+.dropdown-menu:hover {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.dropdown-item:hover {
+  color: var(--text-color);
+}

@@ -49,6 +49,7 @@ body {
 .logos:hover {
   transition: 0.4s;
   transform: translateY(-5px);
+  cursor: url('https://cdn.custom-cursor.com/db/pointer/32/Bongo_Cat_Pointer.png'), pointer;
 }
 
 .social-links a .fa-facebook:hover {
