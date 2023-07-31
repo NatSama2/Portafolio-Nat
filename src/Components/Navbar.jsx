@@ -1,25 +1,34 @@
-import React from 'react';
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import styles from '../styles/navbar.module.css';
+import React from "react";
+import { Navigate } from 'react-router-dom'; 
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+// import NavDropdown from 'react-bootstrap/NavDropdown';
+import styles from "../styles/navbar.module.css";
 
 function Navbars() {
   return (
     <Navbar expand="lg" className={`${styles.navbar} ${styles.bgBodyTertiary}`}>
       <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <img className="navImg" src="src/assets/Gc2.png"></img>
+        <Navbar.Brand onClick={() => <Navigate to="/" />} >Giselle Cifuentes</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className={`me-auto ${styles.nav}`}>
-            <Nav.Link href="#home" className={styles.navLink}>
-              Home
-            </Nav.Link>
-            <Nav.Link href="#link" className={styles.navLink}>
-              Link
-            </Nav.Link>
-            <NavDropdown
+        <Nav className={`me-auto ${styles.nav}`}>
+          <div className="nav-der" 
+                style={{
+                  color: "ffff",
+                  display: "flex",
+                  flexDirection: "row",
+                  justifyContent: "flex-end"
+                }}>
+            <Nav.Link className="link-nav" onClick={() => <Navigate to="/aboutMe" />} >Sobre mí</Nav.Link>
+            <Nav.Link className="link-nav" onClick={() => <Navigate to="/tecnologias" />} >Tecnologías</Nav.Link>
+            <Nav.Link className="link-nav" onClick={() => <Navigate to="/proyectos" />} >Proyectos</Nav.Link>
+            <Nav.Link className="link-nav" onClick={() => <Navigate to="/juegos" />} >Juegos</Nav.Link>
+            <Nav.Link className="link-nav" onClick={() => <Navigate to="/contacto" />} >Contacto</Nav.Link>
+          </div>
+
+          {/*             <NavDropdown
               title="Dropdown"
               id="basic-nav-dropdown"
               className={styles.navDropdown}
@@ -38,8 +47,8 @@ function Navbars() {
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
-          </Nav>
-        </Navbar.Collapse>
+            </Navbar.Collapse> */}
+        </Nav>
       </Container>
     </Navbar>
   );

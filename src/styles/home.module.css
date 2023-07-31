@@ -1,9 +1,15 @@
+/* home.module.css */
+
 .container {
   cursor: url('https://cdn.custom-cursor.com/db/cursor/32/Bongo_Cat_Cursor.png'), pointer;
 }
 
 .container.hover {
   cursor: url('https://cdn.custom-cursor.com/db/pointer/32/Bongo_Cat_Pointer.png'), pointer;
+}
+
+.banner img {
+  width: 100%;
 }
 
 /* #root {

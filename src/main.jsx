@@ -1,17 +1,43 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import App from './App.jsx';
-import './index.css';
-import Navbars from './Components/Navbar.jsx';
-import Footer from './Components/Footer.jsx';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./index.css";
+import {createHashRouter, RouterProvider} from 'react-router-dom'
+import Home from "./Routes/Home.jsx";
+import AboutMe from "./Routes/AboutMe";
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+const router = createHashRouter([
+  {
+    path: '/',
+    element: <Home />
+  },
+  {
+    path: '/aboutMe',
+    element: <AboutMe />
+  },
+  /*{
+    path: '/technologies',
+    element: <Technologies />
+  },
+  {
+    path: '/projects',
+    element: <Projects />
+  },
+  {
+    path: '/games',
+    element: <Games />
+  },
+  {
+    path: '/contact',
+    element: <Contact />
+  } */
+])
+
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <div className='cursor-div'>
-      <Navbars />
-      <App />
-      <Footer />
-    </div>
+    <RouterProvider router={router}></RouterProvider>
+    <div className="cursor-div">
+      {/* <App /> */}
+      </div>
   </React.StrictMode>
 );
