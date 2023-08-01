@@ -6,18 +6,18 @@
   --yt-red: #f70000;
 }
 
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI', sans-serif;
-}
+} */
 
-body {
+/* body {
   width: 100%;
   height: 100vh;
   position: relative;
-}
+} */
 
 .footer {
   background-color: var(--black);
@@ -25,7 +25,10 @@ body {
   text-align: center;
   width: 100%;
   padding: 0 0 10px 0;
-  position: absolute;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  left: 0;
   bottom: 0;
 }
 

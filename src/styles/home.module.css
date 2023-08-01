@@ -8,8 +8,38 @@
   cursor: url('https://cdn.custom-cursor.com/db/pointer/32/Bongo_Cat_Pointer.png'), pointer;
 }
 
-.banner img {
+#sectionBanner{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.imgsBanner{
+  display: flex;
+  flex-direction: row;
   width: 100%;
+}
+
+.banner img {
+  display: flex;
+  width: 78.7vw;
+  margin: 0;
+  padding: 0;
+}
+
+.yoBanner img {
+  display: flex;
+  width: 20vw;
+  border-radius: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.pBanner {
+  display: flex;
+  margin: 5%;
+  text-align: justify;
 }
 
 /* #root {
