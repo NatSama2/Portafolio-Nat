@@ -4,8 +4,19 @@
 
 ## Índice
 
+- [Tecnologías que Manejo](#tecnologías)
 - [Proyectos Destacados](#proyectos-destacados)
 - [Contacto](#contacto)
+
+## Tecnologías:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Firebase
+- Jest
 
 ## Proyectos Destacados:
 
