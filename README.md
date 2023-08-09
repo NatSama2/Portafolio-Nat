@@ -10,7 +10,6 @@
 
 ## Tecnologías:
 
-
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <div style="flex: 48%; padding: 10px; text-align: left;">
@@ -20,7 +19,7 @@
       <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br>
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br>
     </div>
-    <div style="flex: 48%; padding: 10px; text-align: right;">
+    <div style="flex: 48%; padding: 10px; text-align: left;">
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma"><br>
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"><br>
       <img src="https://skillicons.dev/icons?i=jest" alt="Jest"><br>
@@ -32,6 +31,7 @@
     </div>
   </div>
 </div>
+
 
 ## Proyectos Destacados:
 
