@@ -10,7 +10,6 @@
 
 ## Tecnologías:
 
-<div align="center">
   <div style="display: flex; justify-content: space-between;">
     <div style="flex: 48%; padding: 10px; text-align: left;">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"><br>
@@ -30,7 +29,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"><br>
     </div>
   </div>
-</div>
+
 
 
 ## Proyectos Destacados:
