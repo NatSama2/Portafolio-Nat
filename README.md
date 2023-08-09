@@ -10,14 +10,15 @@
 
 ## Tecnologías:
 
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code">     |     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"> |
-| <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">    |  <img src="https://skillicons.dev/icons?i=postman" alt="Postman">|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">   |   <img src="https://skillicons.dev/icons?i=vite" alt="Vite"> |  <img src="https://skillicons.dev/icons?i=react" alt="React"> |
-| <img src="https://skillicons.dev/icons?i=css" alt="CSS"> | <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"> |
-| <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"> |
-| <img src="https://skillicons.dev/icons?i=figma" alt="Figma"> |
-| <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-| <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
+|                                   |                                   |
+|-----------------------------------|-----------------------------------|
+| ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)         | ![Git](https://skillicons.dev/icons?i=git&theme=dark)             |
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark)             | ![CSS](https://skillicons.dev/icons?i=css)                        |
+| ![JavaScript](https://skillicons.dev/icons?i=js)                   | ![Figma](https://skillicons.dev/icons?i=figma)                    |
+| ![Firebase](https://skillicons.dev/icons?i=firebase)               | ![Jest](https://skillicons.dev/icons?i=jest)                      |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs)                  | ![Postman](https://skillicons.dev/icons?i=postman)                |
+| ![Vite](https://skillicons.dev/icons?i=vite)                      | ![React](https://skillicons.dev/icons?i=react)                    |
+| ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)             |                                                                   |
       
       
 ## Proyectos Destacados:
