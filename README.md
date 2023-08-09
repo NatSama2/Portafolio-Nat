@@ -13,21 +13,21 @@
 <div align="center">
   <div style="display: flex;">
     <div style="flex: 50%; padding: 10px; display: flex; flex-direction: column;">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"><br>
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"><br>
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"><br>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br>
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br>
     </div>
     <div style="flex: 50%; padding: 10px; display: flex; flex-direction: column;">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-      <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman">
-      <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
-      <img src="https://skillicons.dev/icons?i=react" alt="React">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"><br>
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"><br>
+      <img src="https://skillicons.dev/icons?i=jest" alt="Jest"><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite"><br>
+      <img src="https://skillicons.dev/icons?i=react" alt="React"><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"><br>
     </div>
   </div>
 </div>
