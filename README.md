@@ -10,15 +10,16 @@
 
 ## Tecnologías:
 
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 48%; padding: 10px; text-align: left;">
+<div align="left">
+  <div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"><br>
       <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"><br>
       <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"><br>
       <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br>
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br>
     </div>
-    <div style="flex: 48%; padding: 10px; text-align: left;">
+    <div style="flex: 50%; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma"><br>
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"><br>
       <img src="https://skillicons.dev/icons?i=jest" alt="Jest"><br>
@@ -29,6 +30,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"><br>
     </div>
   </div>
+</div>
 
 
 
