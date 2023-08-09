@@ -10,13 +10,9 @@
 
 ## Tecnologías:
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Firebase
-- Jest
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js,figma,firebase,jest,nodejs,postman,vite,react,bootstrap&theme=dark" alt="My Skills">
+</div>
 
 ## Proyectos Destacados:
 
