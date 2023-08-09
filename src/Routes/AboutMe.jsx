@@ -7,7 +7,7 @@ function AboutMe() {
   return (
     <>
       <Navbars />
-      <p>Abut me</p>
+      <p>Abut me y tu</p>
 
       <Footer />
     </>
