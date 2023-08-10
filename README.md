@@ -1,4 +1,10 @@
-# Portafolio-Nat
+<h1>
+  <img src="src/assets/yo-banner.png" alt="Logo" width="100" height="100" align="left" style="border-radius: 100%;">
+  Portafolio Nat
+</h1>
+<br>
+<br>
+
 
 ¡Bienvenido/a a mi portafolio de proyectos! A continuación, encontrarás una lista de proyectos en los que he trabajado recientemente. Cada uno de estos proyectos representa un paso adelante en mi trayectoria como desarrollador, y refleja mi pasión por la programación y la resolución de problemas. ¡Espero que disfrutes explorando mi trabajo!
 
@@ -10,17 +16,16 @@
 
 ## Tecnologías:
 
-|                                   |                                   |
-|-----------------------------------|-----------------------------------|
-| ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)         | ![Jest](https://skillicons.dev/icons?i=jest)                      |
-| ![Git](https://skillicons.dev/icons?i=git&theme=dark)             | ![Node.js](https://skillicons.dev/icons?i=nodejs)                  |
-| ![HTML](https://skillicons.dev/icons?i=html&theme=dark)             | ![Postman](https://skillicons.dev/icons?i=postman)                |
-| ![CSS](https://skillicons.dev/icons?i=css)                        | ![Vite](https://skillicons.dev/icons?i=vite)                      |
-| ![JavaScript](https://skillicons.dev/icons?i=js)                   | ![React](https://skillicons.dev/icons?i=react)                    |
-| ![Figma](https://skillicons.dev/icons?i=figma)                    | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)             |
-| ![Firebase](https://skillicons.dev/icons?i=firebase)               |                                   |
-      
-      
+|                                                              |                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Jest](https://skillicons.dev/icons?i=jest)           |
+| ![Git](https://skillicons.dev/icons?i=git&theme=dark)        | ![Node.js](https://skillicons.dev/icons?i=nodejs)      |
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark)      | ![Postman](https://skillicons.dev/icons?i=postman)     |
+| ![CSS](https://skillicons.dev/icons?i=css)                   | ![Vite](https://skillicons.dev/icons?i=vite)           |
+| ![JavaScript](https://skillicons.dev/icons?i=js)             | ![React](https://skillicons.dev/icons?i=react)         |
+| ![Figma](https://skillicons.dev/icons?i=figma)               | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
+| ![Firebase](https://skillicons.dev/icons?i=firebase)         |                                                        |
+
 ## Proyectos Destacados:
 
 ## Burguer Queen API Client (Junio 2023)
