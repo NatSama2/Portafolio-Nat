@@ -1,5 +1,5 @@
 <h1>
-  <img src="src/assets/yo-banner.png" alt="Logo" width="100" height="100" align="left" style="border-radius: 100%;">
+  <img src="src/assets/yo-banner.png" alt="Logo" width="100" align="left" style="border-radius: 100%;">
   Portafolio Nat
 </h1>
 <br>
