@@ -1,5 +1,5 @@
 import React from "react";
-import { Navigate } from 'react-router-dom'; 
+import { Link } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
@@ -11,16 +11,17 @@ function Navbars() {
     <Navbar expand="lg" className={styles.navbar}>
       <Container>
         <img className="navImg" src="src/assets/Gc2.png"></img>
-        <Navbar.Brand className={styles.navName} onClick={() => <Navigate to="/" />} >Giselle Cifuentes</Navbar.Brand>
+        <Navbar.Brand className={styles.navName}> <Link  to="/">Giselle Cifuentes</Link> </Navbar.Brand>
         {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
         <Nav className={`me-auto ${styles.nav}`}>
 
             <div className={styles.linkNav}> 
-            <Nav.Link  onClick={() => <Navigate to="/aboutMe" />} >Sobre mí</Nav.Link>
-            <Nav.Link  onClick={() => <Navigate to="/tecnologias" />} >Tecnologías</Nav.Link>
-            <Nav.Link  onClick={() => <Navigate to="/proyectos" />} >Proyectos</Nav.Link>
-            <Nav.Link  onClick={() => <Navigate to="/juegos" />} >Juegos</Nav.Link>
-            <Nav.Link  className={styles.contactNav} onClick={() => <Navigate to="/contacto" />} >Contacto</Nav.Link>
+            <Nav.Link><Link  to="/aboutMe">  Sobre mí </Link> </Nav.Link>
+            <Nav.Link><Link to="/tecnologias">  Tecnologías </Link></Nav.Link>
+            <Nav.Link><Link to="/proyectos" > Proyectos</Link></Nav.Link>
+            <Nav.Link><Link to="/juegos" >Juegos</Link></Nav.Link>
+
+            <Nav.Link  className={styles.contactNav}> <Link to="/contacto"> Contacto</Link> </Nav.Link>
             </div>
 
 

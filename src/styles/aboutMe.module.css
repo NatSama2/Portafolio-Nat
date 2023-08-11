@@ -1,0 +1,21 @@
+/* aboutMe.module.css */
+
+#pAbout{
+  margin-left: 10%;
+  margin-right:10%;
+  color: white;
+  text-align: justify;
+}
+
+.section{
+  display: flex;    
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+#vetImg{
+  width: 200px;
+  margin-top: 2%;
+  margin-left: 2%;
+}
